@@ -31,6 +31,6 @@ The P values reported are not corrected by any means. There is a big chance of f
 
 Some interesting links about this:
 
-http://tylervigen.com/discover
+http://tylervigen.com/discover/
 
 http://xkcd.com/882/
