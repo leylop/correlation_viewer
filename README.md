@@ -34,3 +34,4 @@ Some interesting links about this:
 http://tylervigen.com/discover
 
 http://xkcd.com/882/
+https://towardsdatascience.com/a-gentle-introduction-to-exploratory-data-analysis-f11d843b8184
